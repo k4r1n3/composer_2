@@ -1,0 +1,13 @@
+{
+    "name": "clemdandaine/composer2",
+    "authors": [
+        {
+            "name": "Karine",
+            "email": "k.challier@yahoo.fr"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {"Hello\\": "src/wcs/"}
+    }
+}
